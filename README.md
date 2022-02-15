@@ -2,7 +2,7 @@
 <h1>Steps to deploy an angular application into Azure blob storage</h1></p>
 
 - Create a **Storage Account** in Azure Portal
-![Create1](https://photos.google.com/photo/AF1QipPUS002BbocAEGakEmTC6ywucGT4_F5lVqhHlB9)
+![Create1](https://lh3.googleusercontent.com/eZMwednwDIdpYycx2NlDZ0UvGa5Q-gnZgjqBkSHcbCGmkIsUFpvpfC0QlEfYXl7igpFz3XBmoikqUH5HYTxThKDa6hDqJjlIzyO7YIhntIGduZKsBJeEgVhT9e-THF04LMQnKoyKa3K8PBNA2evvalm9Ukw_zFz8aHDGiSWga9V2QVqsAizwTg9y8CGpheu6CvC-j_PtW4Uu89kP7Gy3u57Ks6gQMy1pd-kW2005sJDwKMvaTBIu9mmygOUcwEaZsPgLA-83g5GQoHUYDgAdSZfxJd7Q0nrHtWG0idq4qGvBmf98IGbtacXHeToDwNrC2gyWDkl1GZr0yuDnQCu3okREAzfKzsBfPbxAK30oAm26i7vmr-NkLu4LyGa5OmRc9nRwrfQO-f_TyWUWX3euvrpLzJdQ46h8BM8YLaEnoUwyf_ItujLNTEyoCIDu7VzqaeUj6tRKH-xc1N_5W428ZHNqauDsxUfdXDsblgFUHTqXKKHU-rfXj6Tz5fwyBxtMV3Lc-4mIucSBLj7ZnzZSy4Rbp_qigAN1sRRR0dJlHITk-mmU8l5TvtPQ9feQkk2DOr9hlNTINc9rHiOU-Zhyf1BJR4gZlUIaIbktTa02LpaS9hsZNEZ9zRjbpsoxDPJUOhJj5Cb3CqpMtvHZKCSavJkqUDpARtkiZUu2HVxiJrSSvLr_qf1wnIeZ0wupiYoSoBh_WyLMCHRaL4KJymg5-7U=w1189-h668-no?authuser=0)
 
 - Click **Go to Resources** and navigate to **Static website** in the **Data management** section in the left side pane
 
