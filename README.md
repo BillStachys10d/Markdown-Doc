@@ -8,7 +8,7 @@
 
 - Turn the **Static website** switch to **Enabled**
 - Enter the **index document name** as `index.html` and **Error document path** as `404.html` and **Save** the changes
-![Static](https://lh3.googleusercontent.com/RJKhRrQVeR9-Sko82-0gEdNfFIxD2dNxViHLqIN5Ci9KZ4kJkFUSvM7GzHnS7yW0CVzs262yTRRRTqp_k6sB0OEMrducXweP4bRS3ISbU0r6-xgwPFpjLl2GL22eU4hCMsLF9uvyrzcAFZv5ar25bdBEeKH_9JRTarMmg4KkdyDh_IZPGPvqUodcQe5CgDVMozXzJheJTMgK1qWPBbGFQlokKvM9GVvWxpkhLJFf6Wf_P3XuVzi3AXC_JSsS2yWV20WoGAL9kjCdHotmngPKCQPQNhJY1ageFDMVUDt2uhfgA1Mw3c7uHHbMXxop607NYc2n9-26vp9YDelhmGIOcPiUcW7MHuks1FAY9byo5Xx_fU6SSS9DkgNkLRrqAGNUP-En-W74dHIsKwlLfpmPax3o3g4L1r37TNLvJpfkskVZ8_TM85Q-gG0Rao_f9-SJkJDqUMkIzzK4cgvzFjXowZZ3iz4kshpPog_fYQ-uS2oFuOprJXnoFdiUQAXgl8OsKxGPyczPBjEidd69fKdQyeXn5bbr0fGpzoEb59UyBBFNyiucxEkXd6L4yV4HPF5ZKvvHgTrsIN_pDkm5Nw0FHvb5_vMpi94iqhFuDBUuYnWYERe_x2EgYCGxs9alhA31ECJtGt_ZQzinpLXiit-YE-AHxPojvRJaUvi4v1TayZRMlqYXSe9zHZ3lNogXDpeWD8sc7nnTw6cwoYVupHd4uQ=w1006-h566-no?authuser=0)
+![Static](https://drive.google.com/file/d/1vIgLt9oOMd-tekIHMQaDlb-npUJZWYo-/view?usp=sharing)
 - Open the terminal(Ctrl+Alt+T) and create an angular application using the following command 
 `ng new {name of the application}`
 ``` 
